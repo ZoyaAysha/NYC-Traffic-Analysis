@@ -14,7 +14,7 @@ The Project involves analyzing collision data to:
 -Excel (Pivot Tables, Pivot Charts , Power Query)
 
 -From 2021 to April 9th 2023 , there were total of 2,38,421 motor vehicle collisions reported in New York City.Of these, approximately 36%(87,562 accidents) were classified as dangerous. This highlights a critical need for immediate action and the implementation of effective measures to improve road safety and reduce the number of serious collisions. 
-Link - [https://github.com/ZoyaAysha/NYC-Traffic-Analysis/blob/main/Accidents.png](url)
+Link - https://github.com/ZoyaAysha/NYC-Traffic-Analysis/blob/main/Accidents.png
 
 **Injuries and Fatalities:**
 
