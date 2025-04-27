@@ -30,10 +30,12 @@ While this pattern was observed in both 2021 and 2022, the overall number of col
 
 **Most Accidents Reported:**
 
-- If check on which particular street were the most accidents reported, highest collisions were reported in belt parkway collisions were 3728 , of which 1563 were dangerous and we have broadway street collisions reported were 2794 of which 1185 were dangerous.
+- When analyzing collision data by street, Belt Parkway reported the highest number of accidents, with a total of 3,728 collisions, of which 1,563 were classified as dangerous.
+Similarly, Broadway Street recorded 2,794 collisions, with 1,185 of them deemed dangerous.
 
 **Contributing Factors:**
 
+A significant number of collisions are attributed to driver inattention or distraction and then there are unspecified.
 
 
 
