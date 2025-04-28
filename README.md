@@ -61,10 +61,16 @@ The data clearly shows that collisions in New York City are highly time-dependen
 
 To improve road safety in New York City, it is crucial to focus on strengthening road safety initiatives, particularly on major accident-prone roads such as Belt Parkway and Broadway, by enhancing road design, signage, and enforcement. Managing traffic more efficiently during peak rush hours, especially between 8–10 AM and 3–6 PM, can help reduce the high volume of collisions observed during these times. Addressing key contributing factors like driver distraction, failure to yield, and traffic control violations through targeted public awareness campaigns and stricter enforcement can significantly lower collision rates. Given the high proportion of pedestrian fatalities, prioritizing pedestrian-focused interventions such as improved crosswalks, better street lighting, and traffic calming measures is essential. Additionally, implementing nighttime safety programs, particularly on weekends when midnight collisions are high, will help protect all road users. Continuous monitoring of collision trends will enable data-driven decisions and proactive policy adjustments. Finally, although there has been a steady decrease in collisions year-over-year, sustained and adaptive efforts are necessary to maintain and accelerate this positive trend.
 
+**Final Dashboard:**
+
+
+
 
 
 		
-  
+![Dashboard](https://github.com/user-attachments/assets/26514ad3-2379-4110-8b45-b4932800cb2a)
+
+
 
 
 
