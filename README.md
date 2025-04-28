@@ -27,9 +27,11 @@ If we look total number of persons Injured and Killed from 2021 to 2023:
 
 The collision trends New York city shows a clear seasonal pattern , with number of collisions typically rising between April and October before declining towards the end of the year. This pattern is consistent across 2021 and 2022. However, a postive trend can be observed - the overall number of collisions has been decreasing year-over-year. Starting May 2022, collisions counts remained lower compared to 2021, and the early month of 2023 continue this downward trend. This suggests that either enhanced safety measures, changes in traffic patterns, or public awareness efforts might be contributing to the gradual improvement in road safety across the city.
 
-**Most Accidents Reported:**  ![Accidents reported](https://github.com/user-attachments/assets/620593b4-11b7-4c70-b2d4-f368ed3f287c)
+**Most Accidents Reported:**  !
 
 When analyzing the locations with highest number of reported motor vehicle collisions, Belt Parkway stands out with the greatest number of incidents, recording nearly 3,728 collisions, of which 1,563 were dangerous. Broadway follows closely, with 2,794 collisons reported. Other major hotspots iclude the Atlantic Avenue, Long Island Expressway, and the Brooklyn Queens Expressway, each witnessing a considerable number of accidents.These findings highlight that both expressways and major arterial roads are critical areas for traffic safety improvements, and targeted measures such as stricter speed regulations, better signage, and enhanced monitoring could help reduce collision rates in these zones
+
+[Accidents reported](https://github.com/user-attachments/assets/620593b4-11b7-4c70-b2d4-f368ed3f287c)
 
 **Contributing Factors:**
 
