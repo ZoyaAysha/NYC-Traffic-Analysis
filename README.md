@@ -38,6 +38,7 @@ The analysis of contribting factors reveals that Driver Inattention/Distraction 
 **Collisions by Hour and Weekday**
 
 The data clearly shows that collisions in New York City are highly time-dependent, following distinct patterns across weekdays and weekends. On weekdays, collision counts peak during rush hours, especially between 8 AM and 6 PM, with the highest concentrations observed around 4 PM and 5 PM — aligning with the evening rush hour when traffic density is at its maximum. Fridays in particular see a slight spike during late afternoon hours, likely due to weekend traffic starting early. On weekends, however, the trend shifts, with midnight (12 AM) witnessing the highest number of collisions, reflecting increased late-night activities. These patterns emphasize the need for targeted interventions during high-risk hours, including increased traffic enforcement and public safety campaigns during both rush hours and late-night periods.
+[https://github.com/ZoyaAysha/NYC-Traffic-Analysis/blob/main/Collision%20by%20hour%20and%20weekday.png](url)
 
 **Recommendations**
 
